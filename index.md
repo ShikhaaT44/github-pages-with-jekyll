@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
----
+title: " Shikhaa's Blog "
 
-I'm glad you are here. I plan to talk about ...
+---
+    In this page i plan to post articles and blog posts based on my research and explorations
