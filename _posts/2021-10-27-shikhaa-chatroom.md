@@ -1,6 +1,6 @@
 ---
 title : "Shik's Chatroom"
-date : "2021-10-27-shikhaa-chatroom"
+date : 2021-10-27
 
 ---
 Technology plays a big part in our daily life.
